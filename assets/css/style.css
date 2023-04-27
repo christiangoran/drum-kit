@@ -1,14 +1,10 @@
+body,
 html {
-  background: url('assets/images/white-room.png') bottom center;
-}
-
-
-body, html {
   margin: 0;
   border: none;
   padding: 0;
+  font-family: sans-serif;
 }
-
 
 .keys {
   display: flex;
@@ -28,7 +24,7 @@ body, html {
   width: 100px;
   text-align: center;
   color: white;
-  background: rgba(0,0,0,0.4);
+  background: rgba(0, 0, 0, 0.4);
   text-shadow: 0 0 0px black;
 }
 
