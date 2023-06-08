@@ -1,4 +1,4 @@
-** quick JavaScript challenge project **
+**Quick JavaScript challenge project**
 
 ![Image of site](/whiteroom.png)
 
