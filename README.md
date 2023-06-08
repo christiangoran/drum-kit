@@ -1,3 +1,4 @@
+*DrumKit JS*
 **Quick JavaScript challenge project**
 
 ![Image of site](/whiteroom.png)
